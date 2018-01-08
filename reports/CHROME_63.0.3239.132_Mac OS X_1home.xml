@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="6">
+
+  <testsuite name="1home"
+    errors="0" failures="0" hostname="" id="" package="1home" skipped="0"
+    tests="6" time="29.75" timestamp="Fri, 19 Jan 2018 17:06:24 GMT">
+  
+    <testcase name="HOME: User should be able to see a home page" classname="1home" time="4.938" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="SIGNUP: User should be able to access the register page" classname="1home" time="4.826" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="LOGIN: User should be able to access the login page" classname="1home" time="5.736" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="FORGOT PASSWORD: User should be able to see the forgot password page" classname="1home" time="5.454" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="NOT FOUND: User should be see a not found page" classname="1home" time="5.023" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="API DOCS: User should be see the API documentation page" classname="1home" time="3.768" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
